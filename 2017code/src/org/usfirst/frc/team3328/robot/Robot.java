@@ -1,4 +1,3 @@
-/*package robot*/
 package org.usfirst.frc.team3328.robot;
 
 import org.usfirst.frc.team3328.robot.networking.Comms;
